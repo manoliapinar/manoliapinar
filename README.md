@@ -8,7 +8,7 @@ The tools I primarily use are Tableau, Power BI, Qlik (for data loading scripts)
 
 I am currently learning to perfect my skills in analysis and application design using BI tools
 
-📨 Message me on [LinkedIn](https://www.linkedin.com/in/manolia-pinar/)
+📨 Message me on [LinkedIn](https://www.linkedin.com/in/manolia-pinar/) or [Email](manoliapinar@gmail.com)
 
 <!---
 manoliapinar/manoliapinar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
