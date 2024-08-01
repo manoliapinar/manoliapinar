@@ -1,4 +1,4 @@
-👋🏼 Hi, I’m Manolia Pinar
+👋🏼 **Hi, I’m Manolia Pinar**
 
 👩🏻‍💻 I’m BI Analyst Developer based in Paris
 
