@@ -4,7 +4,7 @@
 
 I am interested in designing BI solutions, including developing data models, creating intuitive visualizations, and conducting data analysis to provide actionable insights that optimize strategic decision-making
 
-**Tools & Technologies**
+**Tools & Technologies**:
 **BI Tools**: Tableau, Power BI, Qlik (data loading scripts)
 **Programming**: SQL, Python, Excel
 **Automation & Scripting**: Automating data workflows with Python scripts
