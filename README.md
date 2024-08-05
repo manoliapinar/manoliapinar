@@ -8,6 +8,7 @@ I am interested in designing BI solutions, including developing data models, cre
 **BI Tools**: Tableau, Power BI, Qlik (data loading scripts)
 **Programming**: SQL, Python, Excel
 **Automation & Scripting**: Automating data workflows with Python scripts
+
 I am currently learning to perfect my skills in analysis and application design using BI tools
 
 📨 Message me on [LinkedIn](https://www.linkedin.com/in/manolia-pinar/)
