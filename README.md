@@ -6,14 +6,14 @@
 
 I am interested in designing BI solutions, including developing data models, creating intuitive visualizations, and conducting data analysis to provide actionable insights that optimize strategic decision-making
 
-### BI Tools & Technologies
+## BI Tools & Technologies
 
 |    Qlik      |   Power BI   |   Tableau    | 
 |--------------|--------------|--------------|
 
 I am currently learning to perfect my skills in analysis and application design using BI to
 
-### Most Used Languages
+## Most Used Languages
 
 | Language         | Usage     |
 |------------------|-----------|
@@ -22,7 +22,7 @@ I am currently learning to perfect my skills in analysis and application design 
 | HTML             | 3.53%     |
 | CSS              | 0.47%     |
 
-### Language Badges
+## Language Badges
 
 You can also see my most used languages represented as badges below:
 
