@@ -11,7 +11,7 @@ I am interested in designing BI solutions, including developing data models, cre
 |    Qlik      |   Power BI   |   Tableau    | 
 |--------------|--------------|--------------|
 
-I am currently learning to perfect my skills in analysis and application design using BI to
+I am currently learning to perfect my skills in analysis and application design using BI tools.
 
 ## Most Used Languages
 
@@ -31,7 +31,8 @@ You can also see my most used languages represented as badges below:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-📨 Message me on [LinkedIn](https://www.linkedin.com/in/manolia-pinar/)
+📨 Message me on [LinkedIn](https://www.linkedin.com/in/manolia-pinar/) or [Email](mailto:anoliapinar@gmail.com).
+
 
 <!---
 manoliapinar/manoliapinar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
