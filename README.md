@@ -8,7 +8,6 @@ I am interested in designing BI solutions, including developing data models, cre
 
 ### BI Tools & Technologies
 
-|--------------|--------------|--------------|
 |    Qlik      |   Power BI   |   Tableau    | 
 |--------------|--------------|--------------|
 
@@ -18,8 +17,8 @@ I am currently learning to perfect my skills in analysis and application design 
 
 | Language         | Usage     |
 |------------------|-----------|
-| Jupyter Notebook | 75.85%    |
-| Python           | 20.15%    |
+| Jupyter Notebook | 77.70%    |
+| Python           | 18.30%    |
 | HTML             | 3.53%     |
 | CSS              | 0.47%     |
 
