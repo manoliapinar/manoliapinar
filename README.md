@@ -1,21 +1,20 @@
+## About me
+
 👋🏼 **Hi, I’m Manolia Pinar**
 
 👩🏻‍💻 I’m BI Analyst Developer based in Paris
 
 I am interested in designing BI solutions, including developing data models, creating intuitive visualizations, and conducting data analysis to provide actionable insights that optimize strategic decision-making
 
-**Tools & Technologies**:
-**BI Tools**: Tableau, Power BI, Qlik (data loading scripts)
-**Programming**: SQL, Python, Excel
-**Automation & Scripting**: Automating data workflows with Python scripts
+### BI Tools & Technologies
 
-I am currently learning to perfect my skills in analysis and application design using BI tools
+|--------------|--------------|--------------|
+|    Qlik      |   Power BI   |   Tableau    | 
+|--------------|--------------|--------------|
 
-📨 Message me on [LinkedIn](https://www.linkedin.com/in/manolia-pinar/)
+I am currently learning to perfect my skills in analysis and application design using BI to
 
-## Most Used Languages
-
-Most Used Languages
+### Most Used Languages
 
 | Language         | Usage     |
 |------------------|-----------|
@@ -29,12 +28,11 @@ Most Used Languages
 You can also see my most used languages represented as badges below:
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+📨 Message me on [LinkedIn](https://www.linkedin.com/in/manolia-pinar/)
 
 <!---
 manoliapinar/manoliapinar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
