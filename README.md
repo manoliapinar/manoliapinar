@@ -13,18 +13,10 @@ I am interested in designing BI solutions, including developing data models, cre
 
 I am currently learning to perfect my skills in analysis and application design using BI tools.
 
-![Manolia Pinar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoliapinar&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoliapinar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-
 ## Most Used Languages
 
-| Language         | Usage     |
-|------------------|-----------|
-| Jupyter Notebook | 77.70%    |
-| Python           | 18.30%    |
-| HTML             | 3.53%     |
-| CSS              | 0.47%     |
+![Manolia Pinar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoliapinar&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoliapinar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ## Language Badges
 
