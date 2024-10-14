@@ -29,10 +29,6 @@ You can also see my most used languages represented as badges below:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-## Contributions Graph
-
-![Contributions de Manolia Pinar](https://github-readme-stats.vercel.app/api/wakatime?username=manoliapinar&theme=tokyonight&hide_border=true)
-![Contributions de Manolia Pinar](https://github-readme-stats.vercel.app/api?username=manoliapinar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 📨 Message me on [LinkedIn](https://www.linkedin.com/in/manolia-pinar/) or [Email](mailto:anoliapinar@gmail.com).
 
