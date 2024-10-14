@@ -15,16 +15,6 @@ I am currently learning to perfect my skills in analysis and application design 
 
 ![Manolia Pinar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoliapinar&show_icons=true&theme=radical)
 
-## Détails des statistiques
-- **Total Stars Earned:** 
-- **Total Commits (2024):** 
-- **Total PRs:** 
-- **Total Issues:** 
-- **Contributed to (last year):** 1
-- **Total Contributions:** 
-- **Current Streak:** 
-- **Longest Streak:** 
-
 ## Most Used Languages
 
 | Language         | Usage     |
