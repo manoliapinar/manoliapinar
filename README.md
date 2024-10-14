@@ -8,12 +8,8 @@ I am interested in designing BI solutions, including developing data models, cre
 
 ## BI Tools & Technologies
 
-| ![Qlik](https://img.shields.io/badge/Qlik-00B3E6?style=flat&logo=qlik&logoColor=white) |   Power BI   |   Tableau    | 
+|     Qlik     |   Power BI   |   Tableau    | 
 |--------------|--------------|--------------|
-
-![Qlik](https://img.shields.io/badge/Qlik-00B3E6?style=flat&logo=qlik&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 I am currently learning to perfect my skills in analysis and application design using BI tools.
 
@@ -34,6 +30,9 @@ You can also see my most used languages represented as badges below:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-00B3E6?style=flat&logo=qlik&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 📨 Message me on [LinkedIn](https://www.linkedin.com/in/manolia-pinar/) or [Email](mailto:anoliapinar@gmail.com).
 
