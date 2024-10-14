@@ -8,7 +8,7 @@ I am interested in designing BI solutions, including developing data models, cre
 
 ## BI Tools & Technologies
 
-|    Qlik      |   Power BI   |   Tableau    | 
+| ![Qlik](https://img.shields.io/badge/Qlik-00B3E6?style=flat&logo=qlik&logoColor=white) |   Power BI   |   Tableau    | 
 |--------------|--------------|--------------|
 
 ![Qlik](https://img.shields.io/badge/Qlik-00B3E6?style=flat&logo=qlik&logoColor=white)
