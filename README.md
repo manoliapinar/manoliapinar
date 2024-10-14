@@ -11,6 +11,10 @@ I am interested in designing BI solutions, including developing data models, cre
 |    Qlik      |   Power BI   |   Tableau    | 
 |--------------|--------------|--------------|
 
+![Qlik](https://img.shields.io/badge/Qlik-00B3E6?style=flat&logo=qlik&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
 I am currently learning to perfect my skills in analysis and application design using BI tools.
 
 ## Most Used Languages
