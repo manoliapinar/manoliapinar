@@ -1,6 +1,6 @@
 ## 👋🏼 **Hi, I’m Manolia Pinar**
 
-## I’m BI Analyst Developer based in Paris
+**I’m BI Analyst Developer based in Paris**
 
 I am interested in designing BI solutions, including developing data models, creating intuitive visualizations, and conducting data analysis to provide actionable insights that optimize strategic decision-making
 
