@@ -30,6 +30,8 @@ You can also see my most used languages represented as badges below:
 
 📨 Message me on [LinkedIn](https://www.linkedin.com/in/manolia-pinar/) or [Email](mailto:anoliapinar@gmail.com).
 
+![Profile Views](https://komarev.com/ghpvc/?username=manoliapinar)
+
 
 <!---
 manoliapinar/manoliapinar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
