@@ -1,4 +1,4 @@
-<img src="./assets/manolia.png" alt="Aperçu du projet" width="400"/>
+<img src="chemin/vers/bureau/manolia.png" 
 
 ## 👋🏼 **Hi, I’m Manolia Pinar**
 
