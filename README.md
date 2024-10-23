@@ -1,9 +1,6 @@
 ![Magnolia](https://github.com/manoliapinar/mon_projet/raw/main/manolia.png)
 
 ## 👋🏼 **Hi, I’m Manolia Pinar**
-
-**I’m Analyst Developer based in Paris**
-
 I am interested in designing BI solutions, including developing data models, creating intuitive visualizations, and conducting data analysis to provide actionable insights that optimize strategic decision-making
 
 ## BI Tools & Technologies
