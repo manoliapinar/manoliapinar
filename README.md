@@ -1,5 +1,4 @@
-(https://github.com/manoliapinar/mon_projet/blob/main/manolia.png?raw=true)
-
+(https://github.com/manoliapinar/mon_projet/raw/main/manolia.png)
 ## 👋🏼 **Hi, I’m Manolia Pinar**
 
 **I’m Analyst Developer based in Paris**
