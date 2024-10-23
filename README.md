@@ -1,4 +1,4 @@
-![Image de manolia](./mon_projet/manolia.png)
+(https://github.com/manoliapinar/mon_projet/blob/main/manolia.png?raw=true)
 
 ## 👋🏼 **Hi, I’m Manolia Pinar**
 
