@@ -1,4 +1,4 @@
-(./mon_projet/manolia.png.png)
+![Image de manolia](./manolia.png.png)
 
 ## 👋🏼 **Hi, I’m Manolia Pinar**
 
