@@ -1,7 +1,4 @@
-(./manolia.png)
-git add README.md
-git commit -m "Ajout de l'image dans le README"
-git push origin main
+(./mon_projet/manolia.png)
 
 ## 👋🏼 **Hi, I’m Manolia Pinar**
 
