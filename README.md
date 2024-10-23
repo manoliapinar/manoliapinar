@@ -1,4 +1,3 @@
-(https://github.com/manoliapinar/mon_projet/raw/main/manolia.png)![manolia](https://github.com/user-attachments/assets/bbc70ab8-5432-402e-8046-d2bff800acd8)
 ![Magnolia](https://github.com/manoliapinar/mon_projet/raw/main/manolia.png)
 
 ## 👋🏼 **Hi, I’m Manolia Pinar**
