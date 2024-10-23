@@ -1,4 +1,4 @@
-<img src="chemin/vers/bureau/manolia.png" 
+(./mon_projet/manolia.png.png)
 
 ## 👋🏼 **Hi, I’m Manolia Pinar**
 
